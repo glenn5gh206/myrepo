@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "myrepoprivate",
+			"path": "../myrepoprivate"
+		}
+	],
+	"settings": {}
+}
